@@ -13,5 +13,7 @@ android {
 }
 
 dependencies {
+    // we don't want to package implementation code into robots because we expect to have the
+    // references from target app (since target app and instrumentation app run in the same JVM)
     compileOnly project(':feature')
 }
