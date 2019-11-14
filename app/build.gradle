@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+  compileSdkVersion 29
+  buildToolsVersion "29.0.2"
+
+  defaultConfig {
+    applicationId "com.kirillzh"
+    minSdkVersion 21
+    targetSdkVersion 29
+    versionCode 1
+    versionName "1.0"
+
+    testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+  }
+}
+
+dependencies {
+  implementation project(':feature')
+
+  implementation 'androidx.appcompat:appcompat:1.1.0'
+  implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+
+  androidTestImplementation project(':feature-robots')
+
+  androidTestImplementation 'androidx.test:runner:1.1.1'
+}

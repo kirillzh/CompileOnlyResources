@@ -1,0 +1,4 @@
+rootProject.name='CompileOnlyResources'
+include ':app'
+include ':feature'
+include ':feature-robots'
