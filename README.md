@@ -1,3 +1,5 @@
+[AGP bug: compileOnly configuration doesn't propagate R class](https://issuetracker.google.com/issues/144444371)
+
 ```
 java.lang.NoClassDefFoundError: Failed resolution of: Lcom/kirillzh/featurerobots/R$string;
 at com.kirillzh.featurerobots.FeatureRobot.clickSomething(FeatureRobot.java:5)
