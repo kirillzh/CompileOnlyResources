@@ -1,3 +1,10 @@
+In this example we have Android `app` module that depends Android library `feature` module.
+`feature-robots` Android library module only contains UI instrumentation helpers for UI testing `feature`, specifically it references one of the resources from `feature`.
+`app` has UI test that depends on `feature-robots` in order to test `feature`.
+Note that `feature-robots` depends on `feature` in compile time only using `compileOnly` Gradle configuration. That's because target and instrumentation APKs run in the same JVM so they have the same classpath which makes it unnecessary to ship the app code into the instrumentation apk.
+This however doesn't work because `compileOnly` does not seem to provide Android resources, only jar with classes, whereas `implementation` does both + packages them.
+Ultimately, we want to keep our robot modules (UI helpers) as thin as possible.
+
 [AGP bug: compileOnly configuration doesn't propagate R class](https://issuetracker.google.com/issues/144444371)
 
 ```
