@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [:feature] /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/feature/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/32ed2bf327e411dbd2b87384eadaeab8/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5594b68288c3d3c80065841e15aa36c/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/d12463420902765e024313cfc503270d/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/db2c7b3e19d0574e9fda7d0a57cb98bf/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/21eb90c0697c7ef79901bd7492230b7f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/f701595dec96de01dc0adff0ad508040/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/810ff23acdef3de8ea3ae882f6ee2bbe/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/6090d795712688e73d06e8787b0b7571/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/e679217f7abdadcffefe66a17c521390/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/7681778736c19d17bac31b22f237915d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3e48cd5025fe4bf00f7af22ebf29534a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/25053394e11f3b05d5a2d67c677b4ed9/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/2cab9bff4181e4347eb95f6ccbca6bb7/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/0f63cfdfc8983cae7d1039a662ada941/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/e0248fab1cdc9fbbe6b85c7356d19022/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5352b1305cce07133c607d84d572f51/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/31ac5186bcb22bb381b92a4242499bd7/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3990bf3f7a41027667637032ad9bc7ae/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3a81263a88f6e41676ba26dcf5d5edc2/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/85feda243638c8e9ff3e8eabb87b4ccb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/8c537e90583409525b0a026a1fed4b3b/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5594b68288c3d3c80065841e15aa36c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5594b68288c3d3c80065841e15aa36c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/25053394e11f3b05d5a2d67c677b4ed9/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/25053394e11f3b05d5a2d67c677b4ed9/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/0f63cfdfc8983cae7d1039a662ada941/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/0f63cfdfc8983cae7d1039a662ada941/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/25053394e11f3b05d5a2d67c677b4ed9/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.kirillzh.MainActivity
+ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+MERGED from [:feature] /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/feature/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:feature] /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/feature/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/32ed2bf327e411dbd2b87384eadaeab8/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/32ed2bf327e411dbd2b87384eadaeab8/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5594b68288c3d3c80065841e15aa36c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5594b68288c3d3c80065841e15aa36c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/d12463420902765e024313cfc503270d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/d12463420902765e024313cfc503270d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/db2c7b3e19d0574e9fda7d0a57cb98bf/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/db2c7b3e19d0574e9fda7d0a57cb98bf/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/21eb90c0697c7ef79901bd7492230b7f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/21eb90c0697c7ef79901bd7492230b7f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/f701595dec96de01dc0adff0ad508040/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/f701595dec96de01dc0adff0ad508040/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/810ff23acdef3de8ea3ae882f6ee2bbe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/810ff23acdef3de8ea3ae882f6ee2bbe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/6090d795712688e73d06e8787b0b7571/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/6090d795712688e73d06e8787b0b7571/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/e679217f7abdadcffefe66a17c521390/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/e679217f7abdadcffefe66a17c521390/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/7681778736c19d17bac31b22f237915d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/7681778736c19d17bac31b22f237915d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3e48cd5025fe4bf00f7af22ebf29534a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3e48cd5025fe4bf00f7af22ebf29534a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/25053394e11f3b05d5a2d67c677b4ed9/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/25053394e11f3b05d5a2d67c677b4ed9/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/2cab9bff4181e4347eb95f6ccbca6bb7/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/2cab9bff4181e4347eb95f6ccbca6bb7/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/0f63cfdfc8983cae7d1039a662ada941/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/0f63cfdfc8983cae7d1039a662ada941/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/e0248fab1cdc9fbbe6b85c7356d19022/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/e0248fab1cdc9fbbe6b85c7356d19022/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5352b1305cce07133c607d84d572f51/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/c5352b1305cce07133c607d84d572f51/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/31ac5186bcb22bb381b92a4242499bd7/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/31ac5186bcb22bb381b92a4242499bd7/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3990bf3f7a41027667637032ad9bc7ae/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3990bf3f7a41027667637032ad9bc7ae/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3a81263a88f6e41676ba26dcf5d5edc2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/3a81263a88f6e41676ba26dcf5d5edc2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/85feda243638c8e9ff3e8eabb87b4ccb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/85feda243638c8e9ff3e8eabb87b4ccb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/8c537e90583409525b0a026a1fed4b3b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhukov/.gradle/caches/transforms-2/files-2.1/8c537e90583409525b0a026a1fed4b3b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhukov/Development/GitHub/kirillzh/CompileOnlyResources/app/src/main/AndroidManifest.xml
